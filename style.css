@@ -1,0 +1,55 @@
+body{
+    background-color: lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: orange;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2{
+    color: #999999;
+    margin-top: 0px;
+
+}
+
+main{
+    width: 1024px;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+header{
+    border: 2px green dotted;
+}
+
+#intro{
+    font-style: italic;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.column{
+    width: 300px;
+    margin: 20px;
+    float:left;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: orange;
+}
+
+a:hover{
+    font-weight: lighter;
+    text-decoration: underline;
+}
+
+img{
+    width: 280px;
+    margin-top: 0;
+    border: 2px solid yellow;
+}
